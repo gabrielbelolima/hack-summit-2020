@@ -1,7 +1,11 @@
 /*--------------------------------------------------------------------------------
                             Overview
 ----------------------------------------------------------------------------------*/
-
+body{
+    margin:0px;
+    padding:0px;
+    font-family: Arial, sans-serif;
+}
 
 
 
@@ -13,7 +17,35 @@
 /*--------------------------------------------------------------------------------
                             Menu
 ----------------------------------------------------------------------------------*/
+#menu{
+    width: 100%;
+    padding: 1.2em 0;
+    background: #e60014;
 
+}
+
+.spotlight{
+    margin: 1px;
+}
+@media(max-width: 1024px) {
+ .spotlight{
+     display: none;
+ }  
+}
+#logo{
+    margin-left:80px;
+  
+}
+.input-search{
+    width: 100%;
+    height: auto;
+    border:none;
+    background-color:#fff;
+    padding: 10px 20px ;
+    color:#666;
+    font-size: 18px;
+   
+}
 
 
 
@@ -24,11 +56,8 @@
 ----------------------------------------------------------------------------------*/
 
 .footer {
-    font: 18px Arial, sans-serif;  
-    display: inline-block; 
+    display: inline-block;
+    font: 15px Arial, sans-serif;  
     padding: 5px 20px;
-    background-color: #2d3d5a;
-    text-align: right;
-    color: #fff;
-    font-size: 15px;
+
   }
