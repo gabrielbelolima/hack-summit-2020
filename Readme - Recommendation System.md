@@ -1,0 +1,4 @@
+- Exemplo de sistema de recomendação que usa metadados
+- Dados disponiveis gratuitamente [aqui!](https://www.kaggle.com/c/instacart-market-basket-analysis/data)
+- Notebook feito em base no tutorial disponível [aqui!](https://medium.com/analytics-vidhya/metadata-based-recommender-systems-in-python-c6aae213b25c)
+- Notebook criado por Gabriel Belo para o projeto Americanas Conecta, desenvolvido para o hackathon Summit 2020 - B2W
