@@ -149,9 +149,10 @@ svg{
 .button-hero{
     width: 800px;
     padding: 25px;
-    margin: 40px auto;
+    margin: 20px auto;
     background: rgb(1,205,198);
     border-radius: 50px;
+
 }
 #img-carousel{
     margin:0 auto;
